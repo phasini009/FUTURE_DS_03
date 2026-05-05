@@ -5,7 +5,7 @@ This project analyzes marketing funnel data to evaluate customer conversion and 
 ## Dashboard
 An interactive Excel dashboard was created to visualize key metrics, channel performance, and insights.
 
-![Dashboard](dashboard.png.png)
+![Dashboard](dashboard.png)
 
 ## Key Metrics
 - Total Contacts: 4521  
