@@ -1,16 +1,25 @@
-# Marketing-Funnel-Analysis
-Analysis of marketing funnel data to understand conversions and channel performance using Excel.
+# Marketing Funnel Analysis using Excel
 
-# Marketing Funnel Analysis
-This project analyzes marketing funnel performance using Excel.
+This project analyzes marketing funnel data to evaluate customer conversion and channel performance.
 
-## Key Insights
-- Conversion rate: 12%
-- Cellular channel performs better than telephone
-- Majority of users are not converting
+## Dashboard
+An interactive Excel dashboard was created to visualize key metrics, channel performance, and insights.
+
+![Dashboard](dashboard.png)
+
+## Key Metrics
+- Total Contacts: 4521  
+- Total Customers: 521  
+- Conversion Rate: 12%
+
+## Insights
+- Conversion rate is relatively low (~12%)  
+- Cellular channel performs significantly better than telephone  
+- Majority of users are not converting  
+- Indicates need for marketing strategy optimization  
 
 ## Tools Used
-- Excel
+- Microsoft Excel  
 
 ## Outcome
-Identified drop-off points and suggested improvements for better conversion.
+Identified performance gaps and built a dashboard to present insights effectively for better decision-making.
